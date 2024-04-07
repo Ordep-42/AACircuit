@@ -53,7 +53,7 @@ Dependencies
 Python3
 xerox
 pypubsub
-bresenham
+bresenham (included)
 Gtk+ 3
 
 
@@ -65,4 +65,5 @@ package explicitly (e.g. i686, x86_64 on msys2)
 pacboy -S gtk3 python-pywin32 python-gobject
 pip install xerox pypubsub bresenham
 
-Original: https://github.com/Andy1978/AACircuit
+Original²: https://github.com/Andy1978/AACircuit
+Original(forked from this): https://github.com/Blokkendoos/AACircuit
