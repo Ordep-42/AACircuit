@@ -1,4 +1,4 @@
-
+This is a personal use fork of https://github.com/Blokkendoos/AACircuit. Use at your own discretion.
     _        _    ____ _                _ _     ____        
    / \      / \  / ___(_)_ __ ___ _   _(_) |_  |  _ \ _   _ 
   / _ \    / _ \| |   | | '__/ __| | | | | __| | |_) | | | |
@@ -34,7 +34,7 @@ Draw electronic circuits with ASCII characters.
     r          '---------------o--------------o---o GND                 
                                                                         
 
-This is a pythonized version of (Borland Delphi) AACircuit (by Andreas Weber).
+This is a personal use version of a pythonized version (by Blokkenndoos) of (Borland Delphi) AACircuit (by Andreas Weber).
 A kind of reverse engineered version, where the idea and GUI layout are taken from the original.
 
 For the ASCII representation, use copy or "Save ASCII". Use a monospaced font in your document, news- or mailclient!
@@ -57,13 +57,5 @@ bresenham (included)
 Gtk+ 3
 
 
-Windows
-============
-use pacman if prefer to list full architecture
-package explicitly (e.g. i686, x86_64 on msys2)
-
-pacboy -S gtk3 python-pywin32 python-gobject
-pip install xerox pypubsub bresenham
-
 Original²: https://github.com/Andy1978/AACircuit
-Original(forked from this): https://github.com/Blokkendoos/AACircuit
+Original (forked from): https://github.com/Blokkendoos/AACircuit
